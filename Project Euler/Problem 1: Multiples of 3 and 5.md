@@ -3,6 +3,8 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 
 Find the sum of all the multiples of 3 or 5 below the provided parameter value `number`.
 
+https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-1-multiples-of-3-and-5
+
 ```JavaScript
 // My Solution
 function multiplesOf3and5(number) {
